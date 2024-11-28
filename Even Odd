@@ -31,17 +31,9 @@ public class Main {
   }
 }
 
-Question 5
 
-public class Main {
-  public static void main(String[] args) {
-    float p=12 , r=10 , t=12;
-    float SI = (p*r*t) / 100;
-    System.out.println("simple interest = " +SI);
-}
-}
 
-Question 6
+
 
 
 
